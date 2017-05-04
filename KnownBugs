@@ -1,0 +1,2 @@
+1. Dragon Hoard and Dragon (both in character.cc) are leaking memory<br>
+2. Attack and defense modifier need to be min-capped at 0 when drinking potions<br>
